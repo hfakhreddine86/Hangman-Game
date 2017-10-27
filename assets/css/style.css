@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/bkgrnd.jpg");
+    color: rgb(255, 255, 255) !important;
+}
+
+.jumbotron {
+    text-align: center;
+    padding-top:5px !important;
+    background: rgb(123, 123, 123) !important;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.panel {
+    text-align: center;
+    padding: 15px;
+    background: rgb(123, 123, 123) !important;
+}
+
+.panel-body {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-top: 15px;
+}
